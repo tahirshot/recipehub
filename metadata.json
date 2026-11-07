@@ -1,0 +1,6 @@
+{
+  "name": "RecipeHub - Flutter Recipe App & Interactive Studio",
+  "description": "RecipeHub food recipe application with real public API search, personal recipe creator, favourites, and complete Flutter & Dart project suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
